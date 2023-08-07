@@ -1,0 +1,1 @@
+python vis_rank.py --config_file configs/msmt17/vit_small.yml DATASETS.ROOT_DIR ./data MODEL.PRETRAIN_PATH  logs/msmt.vits.lup.256x128.wopt.csk.4-8.ar.375.n8.e220/transformer_120.pth TEST.WEIGHT logs/msmt17.dino.of.vits/transformer_120.pth 
